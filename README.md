@@ -13,3 +13,7 @@ Taster zur Steuerung
 
 
 Software: 
+Volumio 
+Pepper Player - https://github.com/project-owner/PeppyPlayers.doc.wiki.git
+
+
