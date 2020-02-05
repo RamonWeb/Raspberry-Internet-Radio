@@ -16,6 +16,11 @@ Software:
 
 Pepper Player - https://github.com/project-owner/PeppyPlayers.doc
 
+https://github.com/project-owner/PeppyPlayers.doc/raw/master/peppy.png
+
+
+
+
 oder Volumio - https://volumio.org
 
 
