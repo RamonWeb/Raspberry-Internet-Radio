@@ -14,6 +14,6 @@ Verstärker und Lautsprecher
 Software: 
 
 MPD-Servert 
-eigenen Webserver mit einfache Websteuerung...
+eigenen Webserver mit einfacher Websteuerung...
 
 
