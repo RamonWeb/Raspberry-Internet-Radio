@@ -1,26 +1,19 @@
 # Raspberry-Internet-Radio
 
 .... In Arbeit... 
-VERSION 1.0
+VERSION 0.9 Prototyp
 
 Raspberry Pi 4
 
-Audio DAC oder analoger Ausgang
+Audio DAC 
 
-3.5Zoll Display
+Verstärker und Lautsprecher
 
-Taster zur Steuerung
-
+ 
 
 Software: 
 
-Pepper Player - https://github.com/project-owner/PeppyPlayers.doc
-
-https://github.com/project-owner/PeppyPlayers.doc/raw/master/peppy.png
-
-
-
-
-oder Volumio - https://volumio.org
+MPD-Servert 
+eigenen Webserver mit einfache Websteuerung...
 
 
