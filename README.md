@@ -13,7 +13,8 @@ Verstärker und Lautsprecher
 
 Software: 
 
-MPD-Servert 
-eigenen Webserver mit einfacher Websteuerung...
+MPD-Server
+
+Apache2-Webserver mit einfacher Websteuerung...
 
 
