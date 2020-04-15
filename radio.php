@@ -1,5 +1,5 @@
 <?php
-#    shell_exec("pigs mode 17 w");
+#    SWR3 ist der erste Eintrag in meiner Playlist
     if(isset($_GET['off17']))
         {
                         echo "SWR3 1 is off";
