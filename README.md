@@ -3,18 +3,30 @@
 .... In Arbeit... 
 VERSION 0.9 Prototyp
 
-Raspberry Pi 4
+https://github.com/RamonWeb/Raspberry-Internet-Radio/wiki
 
-Audio DAC 
+Hardware bei dem Prototyp:
 
-Verstärker und Lautsprecher
+-Raspberry Pi 4 mit 2 MB RAM (naja hab später noch mehr mit dem Radio vor…)
+-DAC (Pi HAT) Pifi DAC+
+-Stereo Verstärker und Lautsprecher (aus alten Aktivboxen mit Verstärker und Netzteil)
+-das originale Netzteil des Pi und das 12V Netzteil der Aktivboxen hab ich im Gehäse mit untergebracht. (in der nächsten Version gibt es nur noch ein Netzteil und einen 5V Verstärker)
 
+-einen kleinen Lüfter per 5V lass ich noch zwischen den Pi und dem HAT blasen. Sind Passivkühler auf dem Pi geklebt.
+
+Der Pi läuft immer nur der Verstärker wird bei bedarf eingeschalten. So hab ich die Möglichkeit noch andere Sachen und Programme (Wetter und Temperatur) immer laufen zu lassen auch wenn keiner gerade Musik hört.
+
+Software:
+Steht das Grungsystem mit MPD kann man per SSH eigentlich alles schon machen und mit den Befehlen und eigenen Scripts loslegen.
+
+Habe auch andere SYSTEME wie
+
+https://github.com/project-owner/PeppyPlayers.doc/wiki
  
+oder https://volumio.org ausprobiert. Sind ok… mir aber zu viel auf meinem Radio…
 
-Software: 
+Daher hab ich eine einfache Lösung gesucht… und mir einfach den Webserver des Pi‘s mit einer einfachen Steuerung versehen.
 
-MPD-Server
+In der Wiki ist alles noch einmahl ausführlich Beschrieben..
 
-Apache2-Webserver mit einfacher Websteuerung...
-
-
+https://github.com/RamonWeb/Raspberry-Internet-Radio/wiki
