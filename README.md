@@ -8,6 +8,7 @@ https://github.com/RamonWeb/Raspberry-Internet-Radio/wiki
 Hardware bei dem Prototyp:
 
 -Raspberry Pi 4 mit 2 MB RAM (naja hab später noch mehr mit dem Radio vor…)
+
  Update:27.04.2020
  Nach einem Defekt am Raspberry Pi 4 habe ich jetzt einen Raspberry Zero WH eingebaut. (läuft und läuft...)
  
